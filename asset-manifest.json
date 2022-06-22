@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillbhoommmi/static/css/main.073c9b0a.css",
+    "main.js": "/skillbhoommmi/static/js/main.7f9719b7.js",
+    "static/js/787.9fa3c56e.chunk.js": "/skillbhoommmi/static/js/787.9fa3c56e.chunk.js",
+    "index.html": "/skillbhoommmi/index.html",
+    "main.073c9b0a.css.map": "/skillbhoommmi/static/css/main.073c9b0a.css.map",
+    "main.7f9719b7.js.map": "/skillbhoommmi/static/js/main.7f9719b7.js.map",
+    "787.9fa3c56e.chunk.js.map": "/skillbhoommmi/static/js/787.9fa3c56e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7f9719b7.js"
+  ]
+}
