@@ -31,7 +31,7 @@ const toggleMode = () => {
       <Greet name = "Bruce" heroName = "BatMan"/>
       <Greet name = "Adfar" heroName = "Joey"/>
       <Greet/>
-
+    
       <Welcome/>
          */}
       <Navbar heading="Skillbhoomi" mode = {mode} toggleMode = {toggleMode}/>

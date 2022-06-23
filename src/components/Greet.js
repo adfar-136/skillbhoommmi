@@ -5,8 +5,8 @@ export let Greet = (props) =>{
         <>
              
               <div>
-                 <h1>Hello {props.name} also known as {props.heroName}</h1>
-                   {props.children}
+                 <h1>Hello {props.heading}</h1>
+                   
           
                </div>
         </>
